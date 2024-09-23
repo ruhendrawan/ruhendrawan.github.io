@@ -1,3 +1,3 @@
 # ruhendrawan
 
-(ruhendrawan.com)[https://ruhendrawan.com]
+[ruhendrawan.com](https://ruhendrawan.com)
